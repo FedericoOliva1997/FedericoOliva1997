@@ -1,16 +1,13 @@
-### Hi there 👋
+# Federico Oliva
+- 📫 Reach me: 
+- [linkedin.com/in/federico-oliva6](https://www.linkedin.com/in/federico-oliva6/)
 
-<!--
-**FedericoOliva1997/FedericoOliva1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hii👋, 
+I am Federico Oliva, a self-taught Python and Scala student aiming to build a career in the field of Data Analysis and Data Science. 
 
-Here are some ideas to get you started:
+- 🔭 I am currently working on my own projects as well as on Freelancer
+- 🌱 I am currently studying data management via Data Warehouse as well as PySpark.
+- 💬 Hobbies : Huge fan of motor sports and computer hardware
+-  ⚡ Languages: Python, basic Scala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
