@@ -2,7 +2,7 @@
 - 📫 Reach me: 
 - [linkedin.com/in/federico-oliva6](https://www.linkedin.com/in/federico-oliva6/)
 - [Gmail](mailto:f.oliva1497@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-## Hii👋, 
+## Hi👋, 
 I am Federico Oliva, a self-taught Python and Scala student aiming to build a career in the field of Data Analysis and Data Science. 
 
 - 🔭 I am currently working on my own projects as well as on Freelancer
